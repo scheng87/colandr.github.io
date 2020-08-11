@@ -1,23 +1,25 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
     - title: "About"
       url: "about"
+      children:
+        - title: What is colandr?
+          url: "about#what-is-colandr?"
+        - title: Why use colandr?
+          url: "about#why-use-colandr?"
+        - title: What kinds of projects are suited for colandr?
+          url: "about#what-kinds-of-projects-are-suited-for-colandr?"
+        - title: Can I use colandr for part of my project?
+          url: "about#can-i-use-colandr-for-part-of-my-project?"
+    - title: "Quick start"
+      url: "docs/extras"
+    - title: "Setting up your review"
+      url: "set-up"
+      children:
+        - title: Signing up
+          url: "set-up#signing-up"
+        - title: Adding a review team
+          url: "set-up#adding-a-review-team"
     - title: "News"
       url: "news"
