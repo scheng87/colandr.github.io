@@ -1,1 +1,7 @@
+title: colandr documentation
+email: colandrteam@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Documentation for colandr, an evidence synthesis platform powered by machine learning and natural language process. This is an open access and open source platform intended to help improve the efficiency and conduct of evidence synthesis projects.
 remote_theme: vsoch/docsy-jekyll
+twitter_username: pilesofsquid
+github_username:  scheng87

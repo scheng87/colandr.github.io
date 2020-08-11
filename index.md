@@ -1,41 +1,22 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: colandr documentation
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# colandr
 
-This is a starter template for a docsy jekyll theme.
+colandr ([www.colandrapp.com](http://www.colandrapp.com))is an open-source, open-access web-based platform for evidence synthesis and review projects. This platform aims to improve the efficiency and conduct of syntheses and reviews of text-based documents using a semi-automated approach that employs active machine learning and natural language processing. 
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![assets/img/colandr_sticker.jpg](assets/img/colandr_sticker)
 
-## Purpose
+## How to use this guide
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang
-which doesn't render natively on GitHub pages. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+This guide is intended to get users up and running on their own synthesis project on colandr. It is split up by the workflow of a typical synthesis/review project consisting of searching for documents, screening them for inclusion, and coding meta-data.
 
-## Features
+Plug-ins and links with other softwares will be indicated in **bold** with open source/open access softwares highlighted in **<span style="color:purple">purple</span>**.
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
-guide for a complete summary. Briefly:
+While colandr was designed with a systematic evidence synthesis in mind, it can be used for any type of review of text-based documents and information. You can read more about colandr's functionality and fit-for-purpose in the About section as well as at [www.colandrcommunity.com](http://www.colandrcommunity.com).
 
- - *User interaction* including consistent permalinks, links to ask questions via GitHub issues, and edit the file on GitHub directly.
- - *Search* across posts, documentation, and other site pages, with an ability to exclude from search.
- - *External Search* meaning an ability to link any page tag to trigger an external search.
- - *Documentation* A documentation collection that was easy to organize on the filesystem, render with nested headings for the user, and refer to in markdown.
- - *Pages* A separate folder for more traditional pages (e.g, about).
- - *Navigation*: Control over the main navigation on the left of the page, and automatic generation of table of contents for each page on the right.
- - *News* A posts feed for news and updates, along with an archive (organized by year).
- - *Templates* or specifically, "includes" that make it easy to create an alert, documentation link, or other content.
- - *Continuous Integration* recipes to preview the site
-
-
-For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
+To get start, use the navigation panel to the left and {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
