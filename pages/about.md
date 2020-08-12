@@ -7,11 +7,11 @@ permalink: /about/
 
 Frequently asked questions about colandr. You can read more at [www.colandrcommunity.com](http://www.colandrcommunity.com)
 
-## What is colandr?
+## What
 
 If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}).
 
-##Why use colandr?
+## Why
 
 TEST TEST TEST
 

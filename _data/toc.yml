@@ -5,9 +5,9 @@
       url: "about"
       children:
         - title: What is colandr?
-          url: "about#what-is-colandr?"
+          url: "about#what"
         - title: Machine learning
-          url: "about$machine-learning"
+          url: "about#machine-learning"
     - title: "Quick start"
       url: "docs "
     - title: "Setting up your review"
