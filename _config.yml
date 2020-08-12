@@ -9,7 +9,7 @@ github_user: datakind
 github_repo: permanent-colandr-back
 
 # Should there be feedback buttons at the bottom of pages?
-feedback: true
+# feedback: false
 
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
@@ -17,8 +17,8 @@ feedback: true
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-logo: "assets/img/logo/colandr_sticker.jpg"
-logo_pixels: 34
+# logo: "assets/img/logo/colandr_sticker.jpg"
+# logo_pixels: 34
 color: "#30638e"
 # color: "#8c1515" # primary color for header, buttons
 
@@ -47,7 +47,7 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: "docs"
+      path: "_docs"
       type: "docs"
     values:
       layout: page

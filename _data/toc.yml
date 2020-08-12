@@ -1,10 +1,15 @@
-- title: Documentation
+- title: Navigation
   url: pages
   links:
     - title: "About"
       url: "about"
+      children:
+        - title: What is colandr?
+          url: "about#what-is-colandr?"
+        - title: Machine learning
+          url: "about$machine-learning"
     - title: "Quick start"
-      url: "docs"
+      url: "docs "
     - title: "Setting up your review"
       url: "set-up"
     - title: "News"
