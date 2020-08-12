@@ -13,7 +13,7 @@ Terms can be entered alongside synonyms/alternative terms. Terms that have the s
 
 Terms related to marine habitats: ocean, sea, marine, coral reef, reef, beach
 
-You may enter one of them as the term and the rest as synonyms 
+You may enter one of them as the term and the rest as synonyms
 Term = ocean
 Synonyms = sea,marine,coral reef,reef,beach
 Group = marine habitats
