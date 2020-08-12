@@ -1,10 +1,10 @@
 - title: Documentation
-  url: docs
+  url: pages
   links:
     - title: "About"
       url: "about"
     - title: "Quick start"
-      url: "docs/extras"
+      url: "docs"
     - title: "Setting up your review"
       url: "set-up"
     - title: "News"
