@@ -9,6 +9,6 @@ Choose an email
 
 ## Create a project
 
-## Adding a project team
+## Adding collaborators
 
 ## Collaboration settings

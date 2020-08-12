@@ -1,5 +1,4 @@
 - title: Navigation
-  url: pages
   links:
     - title: "About"
       url: "about"
@@ -9,8 +8,43 @@
         - title: Machine learning
           url: "about#machine-learning"
     - title: "Quick start"
-      url: "docs "
+      url: "quick-start"
+      children:
+        - title: Signing up
+          url: "quick-start#signing-up"
+        - title: Planning review
+          url: "quick-start#planning-review"
+        - title: Add collaborators
+          url: "quick-start#add-collaborators"
+        - title: Import references
+          url: "quick-start#import-references"
+        - title: Screening citations
+          url: "quick-start#screening-citations"
+        - title: Uploading PDFs
+          url: "quick-start#ploading-pdfs"
+        - title: Coding meta-data
+          url: "quick-start#coding-meta-data"
+        - title: Exporting
+          url: "quick-start#exporting"
     - title: "Setting up your review"
       url: "set-up"
-    - title: "News"
-      url: "news"
+      children:
+        - title: Signing up
+          url: "set-up#signing-up"
+        - title: Create a project
+          url: "set-up#create-a-project"
+        - title: Adding collaborators
+          url: "set-up#adding-collaborators"
+        - title: Collaboration settings
+          url: "set-up#collaboration-settings"
+    - title: "Planning your review"
+      url: "planning"
+    - title: "Searching for citations"
+      url: "searching"
+      children:
+        - title: Keywords
+          url: "searching#keywords"
+        - title: Boolean queries
+          url: "searching#boolean-queries"
+        - title: Conducting search
+          url: "searching#conducting-search"
