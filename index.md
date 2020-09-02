@@ -14,7 +14,7 @@ This guide is intended to get users up and running on their own synthesis projec
 
 {% include alert.html type="info" title="Here is another!" content="test test test" %}
 
-{ % include alert.html type="info" title="Link-outs" content="Plug-ins and links with other softwares will be indicated in **bold** with open source/open access softwares highlighted in **<span style="color:purple">purple</span>**." %}
+{% include alert.html type="info" title="Link-outs" content="Plug-ins and links with other softwares will be indicated in **bold** with open source/open access softwares highlighted in **<span style="color:purple">purple</span>**." %}
 
 While colandr was designed with a systematic evidence synthesis in mind, it can be used for any type of review of text-based documents and information. You can read more about colandr's functionality and fit-for-purpose in the About section as well as at [www.colandrcommunity.com](http://www.colandrcommunity.com).
 
