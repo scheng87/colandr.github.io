@@ -12,7 +12,7 @@ colandr ([www.colandrapp.com](http://www.colandrapp.com))is an open-source, open
 
 This guide is intended to get users up and running on their own synthesis project on colandr. It is split up by the workflow of a typical synthesis/review project consisting of searching for documents, screening them for inclusion, and coding meta-data.
 
-{% include alert.html type="info" title="Here is another!" %}
+{% include alert.html type="info" title="Here is another!" content="test test test" %}
 
 { % include alert.html type="info" title="Link-outs" content="Plug-ins and links with other softwares will be indicated in **bold** with open source/open access softwares highlighted in **<span style="color:purple">purple</span>**." %}
 
