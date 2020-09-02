@@ -48,3 +48,8 @@
           url: "searching#boolean-queries"
         - title: Conducting search
           url: "searching#conducting-search"
+    - title: "Screening citations"
+      url: "screening"
+      children:
+        - title: Decisions
+          url: "screening#decisions"
