@@ -12,3 +12,7 @@ Choose an email
 ## Adding collaborators
 
 ## Collaboration settings
+
+## Video walkthrough
+
+{% include youtubePlayer.html id="2PTVUhZAvhs" %}
