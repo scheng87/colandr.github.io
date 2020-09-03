@@ -3,16 +3,16 @@ title: Setting up your review
 permalink: /set-up/
 ---
 
-## Signing up
+### Signing up
 
 Choose an email
 
-## Create a project
+### Create a project
 
-## Adding collaborators
+### Adding collaborators
 
-## Collaboration settings
+### Collaboration settings
 
-## Video walkthrough
+#### Video walkthrough
 
 {% include youtubePlayer.html id="2PTVUhZAvhs" %}

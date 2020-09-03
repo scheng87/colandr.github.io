@@ -21,7 +21,11 @@ If you forget your password, click the "Forget your password?" link on the sign-
 
 Colandr employs machine learning at two stages: screening at title & abstract and data extraction. Within the planning section, there are key sectors that must be filled out for the machine learning models to run, as well as for you to proceed with inclusion/exclusion and extraction.
 
-> **At the minimum to proceed with screening** - ensure that the search terms, exclusion re
+> **At the minimum to proceed with screening** - ensure that the search terms and selection criteria are filled out.
+
+**
+
+
 
 ### Add collaborators
 

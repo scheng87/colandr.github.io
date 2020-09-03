@@ -26,6 +26,8 @@ Synonym = reef
 Group = marine habitat
 All other terms would entered as separate terms with no synonyms and group = marine habitat
 
+![Search terms](/images/searchterms.png)
+
 #### Boolean queries
 
 Colandr can help users structure boolean queries for searching.
@@ -36,8 +38,8 @@ Currently colandr does not have the capability to incorporate Boolean functions 
 
 #### Conducting search
 
-Users can take the formatted Boolean search query
+Users can take the formatted Boolean search query and use to search publication databases. Remember to format the string as needed to include the appropriate field codes for each database.
 
-<!-- {% include alert.html type="warning" title="colandr does not link to publication databases" content="Due to subscription paywalls and copyright laws, colandr does not connect directly to citation databases such as Web of Science or MedLine to search for citations nor download citations. Users will need to " %}
+> Due to subscription paywalls and copyright laws, colandr does not connect directly to citation databases such as Web of Science or MedLine to search for citations nor download citations. Users will need to use their own accounts to log in and search.
 
-{% include alert.html type="info" title="Linking to other packages for searching" content="Colandr can help you format a boolean search query - however, it cannot help you conduct the searches themselves (this requires individual access to publication databases, etc...) or help you test whether your search query is efficient and comprehensive. Emerging applications of machine learning and text-mining may be able to help with this. You can visit the colandr dashboard to trial a beta version of keyword search optimization that utilizes litsearchr." %} -->
+{% include alert.html type="success" title="Linking to other packages for searching" content="Colandr can help you format a boolean search query - however, it cannot help you conduct the searches themselves (this requires individual access to publication databases, etc...) or help you test whether your search query is efficient and comprehensive. Emerging applications of machine learning and text-mining may be able to help with this. You can visit the [colandr companion](https://scheng.shinyapps.io/colandr_stats/) to trial a beta version of keyword search optimization that utilizes litsearchr." %}
